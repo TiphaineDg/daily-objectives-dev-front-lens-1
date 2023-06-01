@@ -1,6 +1,6 @@
 # Objectifs journaliers
 
-## Vendredi 19/05/2023
+## Mardi 30/05/2023
 
 
 * [x] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
